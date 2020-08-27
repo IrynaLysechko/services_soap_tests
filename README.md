@@ -1,1 +1,1 @@
-"# ta_hw_services_soap_tests" 
+Tests for SOAP WebService: https://github.com/RomanShmandrovskyi/SOAP-web-service
